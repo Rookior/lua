@@ -1,0 +1,8 @@
+shift+鼠标右键，在此处打开powershell
+运行：
+	./lua53.exe test.lua
+
+	./lua53.exe package.lua
+
+
+
